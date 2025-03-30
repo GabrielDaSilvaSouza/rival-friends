@@ -11,5 +11,5 @@ Este repositório contém o esqueleto do jogo e será atualizado conforme o dese
 **Em breve**, o jogo estará disponível para jogabilidade em diferentes plataformas, incluindo Xbox.
 
 # Links:
-- GitHub: [https://github.com/seu-usuario/rival-friends](https://github.com/seu-usuario/rival-friends)
+- GitHub: [https://github.com/seu-usuario/rival-friends](https://github.com/GabrielDaSilvaSouza/rival-friends)
 - Vídeos e protótipos: (Se tiver algum, adicione aqui mais tarde)
